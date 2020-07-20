@@ -1,0 +1,7 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+
+Nama	: Doni Nur Pradila
+Email	: donipradila26@gmail.com
+Sistem Operasi yang digunakan	: Windows
+Akun Gitlab		: donipradila
+Akun Telegram	: @dhonydonat
